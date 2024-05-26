@@ -14,6 +14,7 @@ interface FeaturedPostProps {
     image_url: string;
     imageLabel: string;
     title: string;
+    article_id:string
   };
 }
 
